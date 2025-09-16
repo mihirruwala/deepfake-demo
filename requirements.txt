@@ -1,0 +1,6 @@
+streamlit
+opencv-python-headless
+numpy
+moviepy
+pandas
+altair
